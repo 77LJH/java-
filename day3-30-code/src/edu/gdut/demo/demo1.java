@@ -24,6 +24,7 @@ class Teacher2 {
     private double height;
     private boolean isSingle;
 
+    // 传参构造方法
     public Teacher2(String name, String gender, int age, double height, boolean isSingle) {
         this.name = name;
         this.gender = gender;
