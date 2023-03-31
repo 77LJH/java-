@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.3653061" />
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="942e5c82-72d8-44ac-be1f-30fa21436584" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/GirlFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/GirlFriendTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/GoodsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/RoleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3-31-code/day3-31-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StringBuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/TestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/ThrowsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3-30-code/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/GoodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/GoodsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +69,10 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.demo2">
-    <configuration name="GirlFriendTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.GirlFriendTest" />
-      <module name="day3-30-code" />
+  <component name="RunManager" selected="应用程序.Test1">
+    <configuration name="StringBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StringBuilderDemo" />
+      <module name="day3-31-code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.gdut.demo.*" />
@@ -77,9 +83,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.GoodsTest" />
-      <module name="day3-30-code" />
+    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StringDemo" />
+      <module name="day3-31-code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.gdut.demo.*" />
@@ -90,9 +96,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RoleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.RoleTest" />
-      <module name="day3-30-code" />
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentTest" />
+      <module name="day3-31-code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.gdut.demo.*" />
@@ -103,9 +109,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.demo2" />
-      <module name="day3-30-code" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.Test1" />
+      <module name="day3-31-code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.gdut.demo.*" />
@@ -116,9 +122,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.demo3" />
-      <module name="day3-30-code" />
+    <configuration name="ThrowsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.ThrowsTest" />
+      <module name="day3-31-code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.gdut.demo.*" />
@@ -131,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.demo2" />
-        <item itemvalue="应用程序.GoodsTest" />
-        <item itemvalue="应用程序.RoleTest" />
-        <item itemvalue="应用程序.GirlFriendTest" />
-        <item itemvalue="应用程序.demo3" />
+        <item itemvalue="应用程序.Test1" />
+        <item itemvalue="应用程序.StringBuilderDemo" />
+        <item itemvalue="应用程序.StringDemo" />
+        <item itemvalue="应用程序.StudentTest" />
+        <item itemvalue="应用程序.ThrowsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +157,12 @@
       <workItem from="1680165042651" duration="6100000" />
       <workItem from="1680173295416" duration="4794000" />
       <workItem from="1680178160701" duration="9505000" />
+      <workItem from="1680236018896" duration="398000" />
+      <workItem from="1680236431797" duration="685000" />
+      <workItem from="1680237135771" duration="4377000" />
+      <workItem from="1680252063284" duration="13570000" />
+      <workItem from="1680272199961" duration="3631000" />
+      <workItem from="1680277707006" duration="1194000" />
     </task>
     <servers />
   </component>

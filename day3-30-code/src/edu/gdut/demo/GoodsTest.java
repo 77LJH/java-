@@ -15,5 +15,7 @@ public class GoodsTest {
             System.out.println(goods.getId() + " " + goods.getName() + " " + goods.getPrice() + "元 " + goods.getCount() + "件");
         }
 
+
+
     }
 }
