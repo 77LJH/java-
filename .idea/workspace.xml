@@ -9,19 +9,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="942e5c82-72d8-44ac-be1f-30fa21436584" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-31-code/day3-31-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StringBuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/TestException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/ThrowsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-1code/day4-1code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/CountdownTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/StudentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/GoodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day3-30-code/src/edu/gdut/demo/GoodsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,17 +64,18 @@
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Test1">
-    <configuration name="StringBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StringBuilderDemo" />
-      <module name="day3-31-code" />
+  <component name="RunManager" selected="应用程序.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.App" />
+      <module name="day4-1code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.*" />
+          <option name="PATTERN" value="edu.gdut.demo.StudentSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StringDemo" />
-      <module name="day3-31-code" />
+    <configuration name="ClearTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.ClearTest" />
+      <module name="day4-1code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.*" />
+          <option name="PATTERN" value="edu.gdut.demo.StudentSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentTest" />
-      <module name="day3-31-code" />
+    <configuration name="ClearnTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.ClearnTest" />
+      <module name="day4-1code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.*" />
+          <option name="PATTERN" value="edu.gdut.demo.StudentSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.Test1" />
-      <module name="day3-31-code" />
+    <configuration name="CountdownTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.CountdownTimer" />
+      <module name="day4-1code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.*" />
+          <option name="PATTERN" value="edu.gdut.demo.StudentSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.ThrowsTest" />
-      <module name="day3-31-code" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.Main" />
+      <module name="day4-1code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.*" />
+          <option name="PATTERN" value="edu.gdut.demo.StudentSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Test1" />
-        <item itemvalue="应用程序.StringBuilderDemo" />
-        <item itemvalue="应用程序.StringDemo" />
-        <item itemvalue="应用程序.StudentTest" />
-        <item itemvalue="应用程序.ThrowsTest" />
+        <item itemvalue="应用程序.App" />
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.CountdownTimer" />
+        <item itemvalue="应用程序.ClearTest" />
+        <item itemvalue="应用程序.ClearnTest" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,10 @@
       <workItem from="1680237135771" duration="4377000" />
       <workItem from="1680252063284" duration="13570000" />
       <workItem from="1680272199961" duration="3631000" />
-      <workItem from="1680277707006" duration="1194000" />
+      <workItem from="1680277707006" duration="1860000" />
+      <workItem from="1680315525741" duration="23886000" />
+      <workItem from="1680343942796" duration="6893000" />
+      <workItem from="1680352551451" duration="6089000" />
     </task>
     <servers />
   </component>

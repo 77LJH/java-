@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class StudentTest {
     public static void main(String[] args) {
-        ArrayList<Student> students = new ArrayList<Student>();
+        ArrayList<Student> students = new ArrayList<>();
         //添加三个学生数据到数组里里面
         Student student1 = new Student("张三", "001", 18);
         Student student2 = new Student("李四", "002", 19);
