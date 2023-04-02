@@ -6,9 +6,11 @@ public class Student {
     private String id;
     private String address;
 
+    // 无参构造方法
     public Student() {
     }
 
+    // 有参构造方法
     public Student(String name, int age, String id, String address) {
         this.name = name;
         this.age = age;

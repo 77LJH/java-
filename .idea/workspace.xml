@@ -9,18 +9,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="942e5c82-72d8-44ac-be1f-30fa21436584" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-1code/day4-1code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/ArrayListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/CountdownTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/StudentSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/day4-2code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/InheritanceDemo3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/InheritanceDemo3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/InheritanceDemo3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/InheritanceDemo3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo1/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo1/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo2/StudentUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day3-31-code/src/edu/gdut/demo/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.App">
+  <component name="RunManager" selected="应用程序.edu.gdut.demo.InheritanceDemo3.Test">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.App" />
       <module name="day4-1code" />
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClearTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.ClearTest" />
-      <module name="day4-1code" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.staticdemo2.Test" />
+      <module name="day4-2code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.StudentSystem.*" />
+          <option name="PATTERN" value="edu.gdut.demo.staticdemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClearnTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.ClearnTest" />
-      <module name="day4-1code" />
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.TestDemo" />
+      <module name="day4-2code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.StudentSystem.*" />
+          <option name="PATTERN" value="edu.gdut.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountdownTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.CountdownTimer" />
-      <module name="day4-1code" />
+    <configuration name="edu.gdut.demo.InheritanceDemo3.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.InheritanceDemo3.Test" />
+      <module name="day4-2code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.StudentSystem.*" />
+          <option name="PATTERN" value="edu.gdut.demo.InheritanceDemo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.Main" />
-      <module name="day4-1code" />
+    <configuration name="edu.gdut.demo.staticdemo1.TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.staticdemo1.TestDemo" />
+      <module name="day4-2code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.StudentSystem.*" />
+          <option name="PATTERN" value="edu.gdut.demo.staticdemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.edu.gdut.demo.InheritanceDemo3.Test" />
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.edu.gdut.demo.staticdemo1.TestDemo" />
+        <item itemvalue="应用程序.TestDemo" />
         <item itemvalue="应用程序.App" />
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="应用程序.CountdownTimer" />
-        <item itemvalue="应用程序.ClearTest" />
-        <item itemvalue="应用程序.ClearnTest" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +166,12 @@
       <workItem from="1680277707006" duration="1860000" />
       <workItem from="1680315525741" duration="23886000" />
       <workItem from="1680343942796" duration="6893000" />
-      <workItem from="1680352551451" duration="6089000" />
+      <workItem from="1680352551451" duration="6599000" />
+      <workItem from="1680423774048" duration="1947000" />
+      <workItem from="1680425986359" duration="8006000" />
+      <workItem from="1680438237061" duration="44000" />
+      <workItem from="1680438291904" duration="15000" />
+      <workItem from="1680438317657" duration="2969000" />
     </task>
     <servers />
   </component>
