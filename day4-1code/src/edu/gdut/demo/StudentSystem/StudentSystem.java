@@ -4,6 +4,14 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class StudentSystem {
+    //定义常量,用于判断用户输入,并且可以提高代码的可读性,提高代码的可维护性,提高代码的可扩展性
+    private static final String ADD_STUDENT = "1";
+    private static final String DELETE_STUDENT = "2";
+    private static final String UPDATE_STUDENT = "3";
+    private static final String FIND_ALL_STUDENT = "4";
+    private static final String EXIT = "5";
+
+
     public static void startStudentSystem(String[] args) {
 
         //创建学生管理对象
@@ -19,19 +27,19 @@ public class StudentSystem {
 
             //根据用户输入执行相应操作
             switch (choice) {
-                case "1" ->
+                case ADD_STUDENT ->
                     //添加学生，需满足学号唯一
                         addStudent(studentManager);
-                case "2" ->
+                case DELETE_STUDENT ->
                     //删除学生，需满足学号存在则删除，否则提示学号不存在
                         deleteStudent(studentManager);
-                case "3" ->
+                case UPDATE_STUDENT ->
                     //修改学生，需满足学号存在则修改，否则提示学号不存在
                         updateStudent(studentManager);
-                case "4" ->
+                case FIND_ALL_STUDENT ->
                     //查看所有学生，需满足如果没有学生信息则提示学生管理系统没有学生信息，否则打印所有学生信息
                         findAllStudent(studentManager);
-                case "5" -> {
+                case EXIT -> {
                     //退出
                     System.out.println("谢谢使用！");
                     //System.exit(0);//停止虚拟机运行

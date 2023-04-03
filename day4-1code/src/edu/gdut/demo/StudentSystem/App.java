@@ -7,15 +7,29 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) {
-        //为学生管理系统书写一个登录、注册、忘记密码的功能
-        //先创造几个用户
-        ArrayList<User> users = new ArrayList<User>();
 
-        //创建用户
+    //定义常量,用于判断用户输入,并且可以提高代码的可读性,提高代码的可维护性,提高代码的可扩展性
+    private static final String LOGIN = "1";
+    private static final String REGISTER = "2";
+    private static final String FORGET_PASSWORD = "3";
+    private static final String EXIT = "4";
+
+    static ArrayList<User> users = new ArrayList<User>();
+    static {
+        //为什么要用静态代码块？而不是直接在main方法中写？
+        //因为静态代码块只会执行一次，而main方法会执行多次，如果在main方法中写，每次执行main方法都会创建一个新的用户
+        System.out.println("这是静态代码块，开始加载App类");
+        //创建初始化用户
         users.add(new User("liu","123asd","456781234567890123","13245678901"));
         users.add(new User("zhang","456fgh","678934545601231278","13945376726"));
         users.add(new User("wang","789jkl","786123456901234578","15323424234"));
+
+    }
+
+    public static void main(String[] args) {
+        //为学生管理系统书写一个登录、注册、忘记密码的功能
+        //先创造几个用户
+
 
         loop1:while(true){
             //打印登录菜单
@@ -27,25 +41,25 @@ public class App {
 
             //根据用户输入执行相应操作
             switch (choice) {
-                case "1" -> {
+                case LOGIN -> {
                     //登录
                     if(login(users))
                         break loop1;
                     //三次登录错误请等待
                     waitTime();
                 }
-                case "2" ->
+                case  REGISTER->
                     //注册
                         register(users);
 
-                case "3" -> {
+                case FORGET_PASSWORD -> {
                     //忘记密码
                     if(forgetPassword(users))
                         break loop1;
                     //三次验证错误请等待
                     waitTime();
                 }
-                case "4" -> {
+                case EXIT -> {
                     //退出
                     System.out.println();
                     System.exit(0);

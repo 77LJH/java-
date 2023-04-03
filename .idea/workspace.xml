@@ -9,19 +9,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="942e5c82-72d8-44ac-be1f-30fa21436584" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/day4-2code/day4-2code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/InheritanceDemo3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/InheritanceDemo3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/InheritanceDemo3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/InheritanceDemo3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo1/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo1/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo2/StudentUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-2code/src/edu/gdut/demo/staticdemo2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/day4-3code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/codeblockdemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/codeblockdemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo1/ChineseDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo1/Husky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo1/SharPei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo1/TestDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo3/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo3/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/demo3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo4/Administrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo4/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo5/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo5/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-3code/src/edu/gdut/demo/polymorphismDemo5/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/StudentSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/day4-1code/src/edu/gdut/demo/StudentSystem/StudentSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +86,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.edu.gdut.demo.InheritanceDemo3.Test">
+  <component name="RunManager" selected="应用程序.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.StudentSystem.App" />
       <module name="day4-1code" />
@@ -85,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.staticdemo2.Test" />
-      <module name="day4-2code" />
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.polymorphismDemo5.Test" />
+      <module name="day4-3code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.staticdemo2.*" />
+          <option name="PATTERN" value="edu.gdut.demo.polymorphismDemo5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.TestDemo" />
-      <module name="day4-2code" />
+    <configuration name="TestDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.demo1.TestDog" />
+      <module name="day4-3code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.*" />
+          <option name="PATTERN" value="edu.gdut.demo.demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="edu.gdut.demo.InheritanceDemo3.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.InheritanceDemo3.Test" />
-      <module name="day4-2code" />
+    <configuration name="edu.gdut.demo.codeblockdemo.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.codeblockdemo.Test" />
+      <module name="day4-3code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.InheritanceDemo3.*" />
+          <option name="PATTERN" value="edu.gdut.demo.codeblockdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="edu.gdut.demo.staticdemo1.TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.staticdemo1.TestDemo" />
-      <module name="day4-2code" />
+    <configuration name="edu.gdut.demo.polymorphismDemo4.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.polymorphismDemo4.Test" />
+      <module name="day4-3code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.staticdemo1.*" />
+          <option name="PATTERN" value="edu.gdut.demo.polymorphismDemo4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.edu.gdut.demo.InheritanceDemo3.Test" />
-        <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.edu.gdut.demo.staticdemo1.TestDemo" />
-        <item itemvalue="应用程序.TestDemo" />
         <item itemvalue="应用程序.App" />
+        <item itemvalue="应用程序.edu.gdut.demo.codeblockdemo.Test" />
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.TestDog" />
+        <item itemvalue="应用程序.edu.gdut.demo.polymorphismDemo4.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +187,10 @@
       <workItem from="1680425986359" duration="8006000" />
       <workItem from="1680438237061" duration="44000" />
       <workItem from="1680438291904" duration="15000" />
-      <workItem from="1680438317657" duration="2969000" />
+      <workItem from="1680438317657" duration="3131000" />
+      <workItem from="1680484956121" duration="13028000" />
+      <workItem from="1680528091139" duration="4229000" />
+      <workItem from="1680534261521" duration="1656000" />
     </task>
     <servers />
   </component>
