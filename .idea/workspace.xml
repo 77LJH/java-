@@ -4,56 +4,554 @@
     <option name="SPLITTER_PROPORTION" value="0.3653061" />
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="puzzlegame:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="942e5c82-72d8-44ac-be1f-30fa21436584" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/day4-4code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/abstractdemo1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/abstractdemo1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/abstractdemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/abstractdemo2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/abstractdemo2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/abstractdemo2/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/abstractdemo2/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/abstractdemo2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/innerclass/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/innerclass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/innerclass/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/innerclass/OuterA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/innerclass/OuterB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/innerclass/OuterC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/innerclass/Swim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/innerclass/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo1/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo1/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo1/Swim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo2/BasketballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo2/BasketballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo2/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo2/English.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo2/PingPongCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo2/PingPongSpoter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo2/Spoter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo3/InterA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo3/InterB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo3/InterImp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo3/InterImp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo4/InterA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo5/Inter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo5/InterAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-4code/src/edu/gdut/demo/interfacedemo5/InterImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/puzzlegame_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/aboutme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal1/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal2/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal3/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal4/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal5/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal6/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal7/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/animal/animal8/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/damie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl1/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl10/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl11/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl12/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl13/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl2/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl3/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl4/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl5/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl6/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl7/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl8/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/girl/girl9/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/密码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/显示密码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/显示密码按下.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/注册按下.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/注册按钮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/用户名.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/登录按下.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/登录按钮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/login/验证码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/register/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/register/再次输入密码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/register/注册密码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/register/注册按下.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/register/注册按钮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/register/注册用户名.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/register/重置按下.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/register/重置按钮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport1/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport10/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport2/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport3/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport4/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport5/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport6/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport7/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport8/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/sport/sport9/all.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/image/win.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/GameJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/LoginJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/RegisterJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/Util/CodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/Util/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/test/MyJFrame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/test/MyJFrame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/test/MyJFrame3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/src/edu/gdut/ui/test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzlegame/userinfo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu/gdut/demo/inerclass/Car.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +588,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Java_project/The initial learning of java/puzzlegame",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDK",
+    "project.structure.last.edited": "工件",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -103,13 +602,33 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.edu.gdut.demo.innerclass.Test">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_project\The initial learning of java\puzzlegame\image" />
+      <recent name="D:\Java_project\The initial learning of java\puzzlegame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="puzzlegame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.interfacedemo2.Test" />
-      <module name="day4-4code" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="puzzlegame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.ui.test.Test1" />
+      <module name="puzzlegame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.interfacedemo2.*" />
+          <option name="PATTERN" value="edu.gdut.ui.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +636,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="edu.gdut.demo.innerclass.Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.innerclass.Test" />
-      <module name="day4-4code" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.ui.test.Test2" />
+      <module name="puzzlegame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.innerclass.*" />
+          <option name="PATTERN" value="edu.gdut.ui.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,38 +649,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="edu.gdut.demo.innerclass.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.innerclass.Test" />
-      <module name="day4-4code" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.ui.test.Test3" />
+      <module name="puzzlegame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.innerclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="edu.gdut.demo.interfacedemo1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.interfacedemo1.Test" />
-      <module name="day4-4code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.interfacedemo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="edu.gdut.demo.interfacedemo3.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.interfacedemo3.Test" />
-      <module name="day4-4code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.gdut.demo.interfacedemo3.*" />
+          <option name="PATTERN" value="edu.gdut.ui.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +664,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.edu.gdut.demo.innerclass.Test" />
-        <item itemvalue="应用程序.edu.gdut.demo.innerclass.Test (1)" />
-        <item itemvalue="应用程序.edu.gdut.demo.interfacedemo3.Test" />
+        <item itemvalue="应用程序.App" />
         <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.edu.gdut.demo.interfacedemo1.Test" />
+        <item itemvalue="应用程序.Test3" />
+        <item itemvalue="应用程序.Test1" />
+        <item itemvalue="应用程序.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +701,15 @@
       <workItem from="1680484956121" duration="13028000" />
       <workItem from="1680528091139" duration="4229000" />
       <workItem from="1680534261521" duration="2048000" />
-      <workItem from="1680581523172" duration="27128000" />
+      <workItem from="1680581523172" duration="27307000" />
+      <workItem from="1680658663821" duration="20672000" />
+      <workItem from="1680683269423" duration="19356000" />
+      <workItem from="1680707589015" duration="1985000" />
+      <workItem from="1680710203665" duration="328000" />
+      <workItem from="1680742844877" duration="10018000" />
+      <workItem from="1680757752014" duration="4655000" />
+      <workItem from="1680768859653" duration="4754000" />
+      <workItem from="1680777811460" duration="16543000" />
     </task>
     <servers />
   </component>
