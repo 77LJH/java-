@@ -15,7 +15,7 @@ public class IterationDemo1 {
 
         //List接口：有序（指存取的顺序是不变的），可重复，有索引
         //Set接口：无序，不可重复，没有索引
-        //List接口的实现类：ArrayList，LinkedList，Vector
+        //List接口的实现类：ArrayList，LinkedList，Vector(不用)
         //Set接口的实现类：HashSet，LinkedHashSet，TreeSet
 
 
@@ -44,6 +44,7 @@ public class IterationDemo1 {
         //迭代过程中是不能用集合的方法增删元素的，否则会报错，ConcurrentModificationException，并发修改异常
         //如果要再次遍历集合，需要重新获取迭代器
 
-
+        //什么是并发修改异常？
+        //当多个线程操作同一个集合时，有可能会出现并发修改异常
     }
 }

@@ -14,39 +14,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="942e5c82-72d8-44ac-be1f-30fa21436584" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/day4-7code/day4-7code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/mathdemo/MathDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/mathdemo/MathDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/object/ObjectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexDemo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/regexdemo/RegexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/runtime/RuntimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-7code/src/edu/gdut/systemdemo/SystemDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/day4-8code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/IterationDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/ReinforceForCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/date/CalendarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/date/DateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/date/IntegerDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/date/SimpleDateFormatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/date/SimpleDateFormatDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/date/SimpleDateFormatDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/test/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/HuskyDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/LiHuaCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/ListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/ListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/PersianCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/TeddyDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/mygenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/mygenericstest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-9code/day4-9code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-9code/src/edu/gdut/set/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-9code/src/edu/gdut/set/LinkedHashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-9code/src/edu/gdut/set/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-9code/src/edu/gdut/set/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-9code/src/edu/gdut/set/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-9code/src/edu/gdut/set/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4-9code/src/edu/gdut/set/TreeSetDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/edu/gdut/demo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/edu/gdut/demo/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/edu/gdut/demo/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/edu/gdut/demo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/src/edu/gdut/demo/OverloadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzlegame/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzlegame/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/puzzlegame/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/IterationDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day4-8code/src/edu/gdut/collection/IterationDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,13 +98,13 @@
       <recent name="D:\Java_project\The initial learning of java\puzzlegame" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.LambdaDemo">
-    <configuration name="IntegerDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.date.IntegerDemo1" />
-      <module name="day4-8code" />
+  <component name="RunManager" selected="应用程序.AnimalTest">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.demo.AnimalTest" />
+      <module name="exercise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.date.*" />
+          <option name="PATTERN" value="edu.gdut.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterationDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.collection.IterationDemo1" />
-      <module name="day4-8code" />
+    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.set.HashSetDemo" />
+      <module name="day4-9code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.collection.*" />
+          <option name="PATTERN" value="edu.gdut.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.collection.LambdaDemo" />
-      <module name="day4-8code" />
+    <configuration name="LinkedHashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.set.LinkedHashSetDemo" />
+      <module name="day4-9code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.collection.*" />
+          <option name="PATTERN" value="edu.gdut.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReinforceForCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.collection.ReinforceForCircle" />
-      <module name="day4-8code" />
+    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.set.TreeSetDemo" />
+      <module name="day4-9code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.collection.*" />
+          <option name="PATTERN" value="edu.gdut.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.gdut.test.demo1" />
-      <module name="day4-8code" />
+    <configuration name="TreeSetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.gdut.set.TreeSetDemo1" />
+      <module name="day4-9code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.gdut.test.*" />
+          <option name="PATTERN" value="edu.gdut.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.LambdaDemo" />
-        <item itemvalue="应用程序.ReinforceForCircle" />
-        <item itemvalue="应用程序.IterationDemo1" />
-        <item itemvalue="应用程序.demo1" />
-        <item itemvalue="应用程序.IntegerDemo1" />
+        <item itemvalue="应用程序.AnimalTest" />
+        <item itemvalue="应用程序.TreeSetDemo1" />
+        <item itemvalue="应用程序.TreeSetDemo" />
+        <item itemvalue="应用程序.HashSetDemo" />
+        <item itemvalue="应用程序.LinkedHashSetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +216,8 @@
       <workItem from="1680844774245" duration="215000" />
       <workItem from="1680849703820" duration="15628000" />
       <workItem from="1680930451830" duration="20614000" />
-      <workItem from="1680967953649" duration="2055000" />
+      <workItem from="1680967953649" duration="2384000" />
+      <workItem from="1681012145848" duration="20556000" />
     </task>
     <servers />
   </component>
